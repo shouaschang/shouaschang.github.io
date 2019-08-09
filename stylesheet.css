@@ -1,0 +1,28 @@
+ body {
+  /*  background-color: lightblue; */
+  font-family: Helvetica, Arial, sans-serif;
+  } 
+  
+h1 {
+    font-family: Helvetica, Arial, sans-serif;
+    color: #0a67ba;
+}
+
+h2 {
+  font-family: Helvetica, Arial, sans-serif;
+  color: #0abab5;
+}
+
+h3 {
+  font-family: Helvetica, Arial, sans-serif;
+  color: #67ba0a;
+}
+
+h4, h5, h6, p , ul, ol, input {
+  font-family: Helvetica, Arial, sans-serif;
+  color: #747474;
+}
+
+p, ul, ol, input {
+  font-size: 11pt;
+}
