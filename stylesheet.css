@@ -9,7 +9,6 @@ h1 {
     margin-bottom: 15px;
 /*    text-align: center; */
     background-color: #f2f2f2;
-
 }
 
 h2 {
@@ -30,17 +29,14 @@ h4, h5, h6, {
   background-color: #f2f2f2;
 }
 
-p , ul, ol, input {
+p, ul, ol, input {
   font-family: Helvetica, Arial, sans-serif;
+  font-size: 11pt;
   color: #747474;
 }
 
-p, ul, ol, input {
-  font-size: 11pt;
-}
-
-img {
+/* img {
   margin-left: auto;
   margin-right: auto;
   display: block;
-}
+} */
